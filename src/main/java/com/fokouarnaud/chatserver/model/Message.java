@@ -17,12 +17,8 @@ public class Message {
     private String message;
     private String date;
     private Status status;
-<<<<<<< Updated upstream
-	public String getSenderName() {
-=======
-    
+
     public String getSenderName() {
->>>>>>> Stashed changes
 		return senderName;
 	}
 	public void setSenderName(String senderName) {
@@ -52,9 +48,5 @@ public class Message {
 	public void setStatus(Status status) {
 		this.status = status;
 	}
-<<<<<<< Updated upstream
-=======
 
-
->>>>>>> Stashed changes
 }
