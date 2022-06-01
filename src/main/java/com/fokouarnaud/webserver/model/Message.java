@@ -1,4 +1,4 @@
-package com.fokouarnaud.chatserver.model;
+package com.fokouarnaud.webserver.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
